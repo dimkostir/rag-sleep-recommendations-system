@@ -42,7 +42,7 @@ to generate **personalized insights and recommendations** for improving sleep qu
 ## 🧠 Technologies Used  
 
 - **Backend:** FastAPI (Python)  
-- **Frontend:** React  
+- **Frontend:** Flutter 
 - **Database:** MongoDB  
 - **AI Processing:** LangChain + Groq API  
 - **Vector Storage:** FAISS  
